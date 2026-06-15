@@ -1,5 +1,6 @@
 # 🌱 Farmaline
 
+
 **AI-Powered Agricultural Ecosystem**
 
 A complete agricultural ecosystem connecting **Farmers**, **Consumers**, **Veterinarians**, **Retailers**, and **Delivery Partners** — all powered by **Google Gemini AI**.
@@ -532,5 +533,6 @@ This project was built for hackathon demonstration purposes.
 <p align="center">
   <strong>🌱 Farmaline - From Seed to Consumer, Powered by AI 🌱</strong>
 </p>
-#   f a r m _ s u p  
+#   f a r m _ s u p 
+ 
  
