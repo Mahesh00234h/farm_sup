@@ -1,0 +1,1 @@
+UPDATE orders SET delivery_coordinates = '{"lat": 18.5204, "lng": 73.8567}'::jsonb WHERE id = '3fdc6a39-fe39-49d9-8c32-14c67cd8e025';

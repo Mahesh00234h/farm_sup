@@ -1,0 +1,9 @@
+{
+  "appId": "app.lovable.d15073c6f87e4f39baec56197d542f55",
+  "appName": "seed-to-sip-ai",
+  "webDir": "dist",
+  "server": {
+    "url": "https://d15073c6-f87e-4f39-baec-56197d542f55.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  }
+}

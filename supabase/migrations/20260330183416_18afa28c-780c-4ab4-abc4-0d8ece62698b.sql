@@ -1,0 +1,1 @@
+UPDATE orders SET delivery_coordinates = '{"lat": 18.4917, "lng": 73.8346}'::jsonb WHERE id IN (SELECT id FROM orders WHERE delivery_coordinates IS NULL AND status IN ('pending', 'confirmed') LIMIT 5);

@@ -1,0 +1,1 @@
+UPDATE public.orders SET status = 'delivered', updated_at = now() WHERE id = '0a1e6fc5-00ac-4cde-b302-08b20d48994c';
